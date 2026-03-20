@@ -1,7 +1,7 @@
 
- - 👋 Hey, I’m Nassib, studying Cognitive Science and Data Science at UC Berkeley.
+ - 👋 Hey, I’m Nassib, a Cognitive Science and Data Science UC Berkeley Graduate. 
  - Email me at nassibchaya9@gmail.com if you would like to get in touch :)
- - Visit my personal website: https://sites.google.com/view/nassibchaya/home
+ - Visit my personal website: https://sites.google.com/view/nassibchaya
 
 <!--
 **nassib1/nassib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
